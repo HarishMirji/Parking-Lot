@@ -33,7 +33,3 @@ Manages parking lot data, including capacity, available spots, and configuration
 - **Strategy Pattern (for Spot Assignment)**
 - **JUnit** for testing  
 
-## 📖 How to Run
-1. Clone the repository:  
-   ```sh
-   git clone https://github.com/yourusername/parking-lot-system.git
